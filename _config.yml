@@ -7,13 +7,14 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@v2.5.2
 
 email: jessebest2@gmail.com
 
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-remote-theme
 
 minima:
   skin: solarized-dark
