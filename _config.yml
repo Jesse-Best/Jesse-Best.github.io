@@ -9,9 +9,8 @@ kramdown:
 
 theme: minima
 
-author:
-  name: Jesse Best
-  email: jessebest2@gmail.com
+name: Jesse Best
+email: jessebest2@gmail.com
 
 plugins:
  - jekyll-feed
