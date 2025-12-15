@@ -9,7 +9,9 @@ kramdown:
 
 remote_theme: jekyll/minima
 
-email: jessebest2@gmail.com
+author:
+  name: Jesse Best
+  email: jessebest2@gmail.com
 
 plugins:
  - jekyll-feed
@@ -27,8 +29,5 @@ minima:
     - title: Jesse Best's Github
       icon: github
       url: https://github.com/Jesse-Best
-    - title: Jesse Best's email
-      icon: envelope
-      url: mailto:jessebest2@gmail.com
 
   hide_site_feed_link: true

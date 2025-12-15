@@ -20,12 +20,3 @@ Current projects include QGIS plugin development and game development using Godo
 The plugin offers a simple, intuitive interface for discovering and loading geospatial datasets, geology series maps, and related resources available from the [Data WA](https://www.data.wa.gov.au/) website.
 
 The plugin's github repository can be found at [WA Geo Data](https://github.com/Jesse-Best/WAGeoData).
-
-
----
-
-## Links
-
-- [GitHub](https://github.com/Jesse-Best)
-- [LinkedIn](https://www.linkedin.com/in/jessebest2/)
-- [Email](mailto:jessebest2@gmail.com)
