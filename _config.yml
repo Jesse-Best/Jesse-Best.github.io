@@ -7,7 +7,7 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-remote_theme: jekyll/minima@v3.0
+remote_theme: jekyll/minima
 
 email: jessebest2@gmail.com
 
