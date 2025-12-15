@@ -9,20 +9,14 @@ kramdown:
 
 theme: minima
 
-name: Jesse Best
 email: jessebest2@gmail.com
 
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
 
-
 minima:
   skin: solarized-dark
-
-  # nav_pages:
-  #   - about.md
-  
   date_format: "%d-%b-%Y"
 
   social_links:
