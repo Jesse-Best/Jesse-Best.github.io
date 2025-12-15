@@ -1,0 +1,40 @@
+title: Jesse Best
+description: Geology student. Python developer. QGIS enjoyer.
+url: https://Jesse-Best.github.io
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+theme: minima
+
+author:
+  name: Jesse Best
+  email: jessebest2@gmail.com
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
+
+minima:
+  skin: solarized-dark
+
+  # nav_pages:
+  #   - about.md
+  
+  date_format: "%d-%b-%Y"
+
+  social_links:
+    - title: Jesse Best's Linkedin
+      icon: linkedin
+      url: https://www.linkedin.com/in/jessebest2/
+    - title: Jesse Best's Github
+      icon: github
+      url: https://github.com/Jesse-Best
+    - title: Jesse Best's email
+      icon: envelope
+      url: mailto:jessebest2@gmail.com
+
+  hide_site_feed_link: true
