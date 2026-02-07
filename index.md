@@ -9,8 +9,6 @@ I am a geology student with experience in gold processing operations and a backg
 
 My work focuses on task automation and geospatial data processing, with an emphasis on clean system design and intuitive interfaces.
 
-Current projects include QGIS plugin development and game development using Godot.
-
 
 ---
 
